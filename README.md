@@ -1,204 +1,132 @@
-# 🎨 GitHub Revamp - Profile README Template
+# Hi there! 👋 I'm Syed Nofel Talha
 
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Technical+Account+Manager+at+Motive;Fintech+Engineer;Open+Source+Builder)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 What is This?
+## 👨‍💻 About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+I'm a passionate engineer with 2.5+ years of fintech experience building core payment systems, combined with a deep interest in low-level systems, game engine development, and compiler engineering.
 
-### ✨ Features
-
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
+- 🔭 Currently: [Technical Account Manager at Motive](https://www.motive.com)
+- 💼 Previously: 2.5 years in Fintech (Digital Wallet Systems, Payment Switches, Card Management, Bill Payments)
+- 🎮 Building my own 3D game engine from scratch ([Ignis](https://github.com/D1abol1cal/Ignis))
+- 🛠️ Passionate about: Low-level systems, Compiler engineering, Kernel development, RISC-V chip design
+- 🎬 Hobbies: Gaming & emulation, Sci-fi/psychological thrillers, Cricket & table tennis
+- 💡 Open to collaboration and opportunities
 
 ---
 
-## 📸 Preview
+## ⭐ LATEST PROJECTS
 
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Create Your Profile Repository
-
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
-
-### 2️⃣ Clone This Template
-
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
-
-### 3️⃣ Change Remote URL
-
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
-
-### 4️⃣ Customize Your Profile README
-
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+| 🔥 **Ignis** | 🎮 **Bunninja** |
+|---|---|
+| **[Ignis - 3D Game Engine](https://github.com/D1abol1cal/Ignis)**<br/>A from-scratch 3D game engine with comprehensive explanations. The project is actively developed with core rendering and engine systems already in place. Built with modern graphics APIs and a focus on understanding low-level graphics programming. <br/><br/>![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=white) ![DirectX](https://img.shields.io/badge/DirectX-107C10?style=flat-square&logo=windows&logoColor=white) | **[Bunninja - 2D Platformer](https://github.com/D1abol1cal/Bunninja)**<br/>A vibrant 2D pixel art platformer game. Join Bunninja through colorful pixelated worlds filled with obstacles, enemies, and treasures. A fun project showcasing game mechanics and pixel art aesthetics. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-85EF47?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
-## 📚 Full Documentation
-
-For detailed setup instructions, customization options, and troubleshooting, see:
-
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
 
 ---
 
-## 🎨 What's Included?
+## 🏆 HIGHLIGHTS
 
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
+| 💳 Fintech Experience | 🔨 Ignis Game Engine | 🎨 Full Stack Developer | 🚀 System Design |
+|---|---|---|---|
+| 2.5 years building core fintech systems handling millions of transactions daily | Building a 3D game engine from scratch—a significant personal achievement in systems engineering | Experienced with MERN, Spring MVC, and modern cloud deployments across AWS, Azure, and others | Deep interest in low-level systems, compilers, kernel development, and RISC-V chip design |
 
 ---
 
-## 🎯 Customization Tips
+## 📊 GITHUB STATS
 
-### Change Accent Color
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D1abol1cal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1abol1cal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=D1abol1cal&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Contributing
+## 🐍 CONTRIBUTION SNAKE
 
-Contributions are welcome! If you have ideas for improvements:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+![github contribution grid snake animation](https://github.com/D1abol1cal/D1abol1cal/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 📝 License
+## 🛠 TECH STACK
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=white)
+
+**AI/ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-404040?style=flat-square&logo=xgboost&logoColor=white)
+
+**Databases**
+
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 💡 Inspiration
+## 📫 CONNECT WITH ME
 
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
-
----
-
-## 🙏 Acknowledgments
-
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
-
----
-
-## ⭐ Show Your Support
-
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
+<p align="center">
+  <a href="https://github.com/D1abol1cal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:syednofeltalha2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/syed-nofel-talha-773a88243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contact
+<p align="center">
+  <i>"The only way to do great work is to love what you do. Build systems that matter, whether it's payment networks or game engines."</i>
+</p>
 
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
-
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
-
----
-
-**Made with ❤️ for the developer community**
-
-*Happy profiling! 🚀*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=D1abol1cal&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
